@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.greetingcard"
+    namespace = "com.example.apteczka"
     compileSdk = 35
 
     defaultConfig {

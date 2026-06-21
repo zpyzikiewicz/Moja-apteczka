@@ -1,4 +1,4 @@
-package com.example.greetingcard.ui.theme
+package com.example.apteczka.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

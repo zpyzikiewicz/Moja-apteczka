@@ -1,4 +1,4 @@
-package com.example.greetingcard
+package com.example.apteczka
 
 import androidx.room.Dao
 import androidx.room.Query

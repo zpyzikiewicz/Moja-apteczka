@@ -1,4 +1,4 @@
-package com.example.greetingcard
+package com.example.apteczka
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,7 +17,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.greetingcard.ui.theme.GreetingCardTheme
+import com.example.apteczka.ui.theme.GreetingCardTheme
 import androidx.activity.compose.BackHandler
 
 class MainActivity : ComponentActivity() {

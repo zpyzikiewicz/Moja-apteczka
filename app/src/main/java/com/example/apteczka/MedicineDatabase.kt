@@ -1,4 +1,4 @@
-package com.example.greetingcard
+package com.example.apteczka
 
 import android.content.Context
 import androidx.room.Database

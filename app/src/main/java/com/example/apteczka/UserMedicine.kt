@@ -1,6 +1,5 @@
-package com.example.greetingcard
+package com.example.apteczka
 
-import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
